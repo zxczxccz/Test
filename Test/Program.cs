@@ -6,6 +6,7 @@
         {
             
             release
+                test
             develop
 
 
