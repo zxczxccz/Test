@@ -4,7 +4,12 @@
     {
         public static void Main(string[] args)
         {
-            main
+            main 
+            release
+            develop
+
+
+
         }
     }
 }
